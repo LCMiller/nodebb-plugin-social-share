@@ -1,8 +1,10 @@
 # nodebb-plugin-social-share
 
-## About
+### About
 
-## install 
+This is a test plugin, my first for Nodebb, so you are advised not to install as I am still learning.
+
+### install 
 
 npm install nodebb-plugin-social-share
 
