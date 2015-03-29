@@ -1,0 +1,19 @@
+{
+"id": "nodebb-plugin-social-share",
+"name": "NodeBB Social Share",
+"description": "Displays a row of social icons",
+"url": "https://github.com/LCMiller/nodebb-plugin-social-share/",
+"library": "./library.js",
+"hooks": [
+{ "hook": "filter:parse.post", "method": "parse", "callbacked": true } ],
+"staticDirs": {
+"static": "./static"
+},
+"less": [
+"static/style.less"
+],
+"scripts": [
+"static/lib/social.js",
+"static/lib/main.js"
+]
+}
