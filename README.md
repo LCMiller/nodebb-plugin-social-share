@@ -1,5 +1,9 @@
 # nodebb-plugin-social-share
 
-install 
+## About
+
+## install 
 
 npm install nodebb-plugin-social-share
+
+
