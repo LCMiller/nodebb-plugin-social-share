@@ -1,0 +1,33 @@
+{
+"name": "nodebb-plugin-social-share",
+"version": "0.1.0",
+"nbbpm": {
+"compatibility": "^0.6.0"
+},
+"description": "NodeBB Social Share Plugin",
+"main": "library.js",
+"scripts": {
+"test": "echo \"Error: no test specified\" && exit 1"
+},
+"repository": {
+"type": "git",
+"url": "https://github.com/LCMiller/nodebb-plugin-social-share"
+},
+"keywords": [
+"nodebb",
+"plugin",
+"social share"
+],
+"author": {
+"name": "LCMiller",
+"email": "info@mediawikibootstrapskin.co.uk"
+},
+"license": "BSD-2-Clause",
+"bugs": {
+"url": "https://github.com/LCMiller/nodebb-plugin-social-share/issues"
+},
+"readme": "",
+"readmeFilename": "README.md",
+"_id": "nodebb-plugin-social-share@0.1.0",
+"_from": "nodebb-plugin-social-share@~0.1.0"
+}
