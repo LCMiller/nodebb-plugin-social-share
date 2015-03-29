@@ -13,7 +13,7 @@
 "static/style.less"
 ],
 "scripts": [
-"static/lib/social.js",
-"static/lib/main.js"
+"static/social.js",
+"static/main.js"
 ]
 }
